@@ -1,0 +1,16 @@
+﻿  bendera _indonesia.cpp
+E:\Tugas Grafika\Tugas bendera\bendera indonesia\bendera indonesia\bendera _indonesia.cpp(8,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera indonesia\bendera indonesia\bendera _indonesia.cpp(8,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera indonesia\bendera indonesia\bendera _indonesia.cpp(9,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera indonesia\bendera indonesia\bendera _indonesia.cpp(10,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera indonesia\bendera indonesia\bendera _indonesia.cpp(11,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera indonesia\bendera indonesia\bendera _indonesia.cpp(11,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera indonesia\bendera indonesia\bendera _indonesia.cpp(17,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera indonesia\bendera indonesia\bendera _indonesia.cpp(18,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera indonesia\bendera indonesia\bendera _indonesia.cpp(18,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera indonesia\bendera indonesia\bendera _indonesia.cpp(19,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera indonesia\bendera indonesia\bendera _indonesia.cpp(19,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera indonesia\bendera indonesia\bendera _indonesia.cpp(20,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera indonesia\bendera indonesia\bendera _indonesia.cpp(31,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+E:\Tugas Grafika\Tugas bendera\bendera indonesia\bendera indonesia\bendera _indonesia.cpp(31,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  bendera indonesia.vcxproj -> E:\Tugas Grafika\Tugas bendera\bendera indonesia\bendera indonesia\x64\Debug\bendera indonesia.exe

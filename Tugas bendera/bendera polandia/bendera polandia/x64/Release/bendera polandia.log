@@ -1,0 +1,23 @@
+﻿  bendera_polandia.cpp
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(7,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(7,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(8,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(8,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(9,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(9,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(10,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(10,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(16,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(16,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(17,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(17,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(18,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(18,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(19,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\bendera_polandia.cpp(19,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating code
+  2 of 6 functions (33.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  bendera polandia.vcxproj -> E:\Tugas Grafika\Tugas bendera\bendera polandia\bendera polandia\x64\Release\bendera polandia.exe
